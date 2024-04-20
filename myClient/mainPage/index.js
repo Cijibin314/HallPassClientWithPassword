@@ -10,7 +10,7 @@ try{
 }catch(err){
 }
 
-
+ 
 function login(){
   document.getElementById("login").textContent = "Logging in."
   const username = document.getElementById("username").value.toLowerCase();
